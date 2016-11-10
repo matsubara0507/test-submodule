@@ -1,0 +1,3 @@
+[submodule "score-bot"]
+	path = score-bot
+	url = git@github.com:matsubara0507/score-bot.git
